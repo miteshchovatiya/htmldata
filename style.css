@@ -1,0 +1,18 @@
+
+p{
+    height: 750px;
+}
+
+
+.bgimg{
+    background: linear-gradient(rgba(113, 128, 0, 0.671), rgba(0, 255, 221, 0.475), rgba(135, 207, 235, 0.813) ), url(./animal.webp);
+    /* linear-gradient( rgb(255, 255, 255) ,rgb(241, 78, 78) , rgb(63, 52, 52)); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 1200px; */
+
+
+    
+
+
+}
